@@ -1,0 +1,9 @@
+/target/
+/.nb-configuration/
+/.nb-gradle/
+/dist/
+/build/
+/out/
+*.log
+*.iml
+.DS_Store
